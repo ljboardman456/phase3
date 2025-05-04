@@ -1,0 +1,17 @@
+## Setup Instructions
+1. Clone repo
+2. Run SQL scripts from `/database/phase1`, `phase2`, `phase3`
+3. Run `app.py` (Flask) to start server
+
+## User Credentials
+- Admin: admin / adminpass
+- Manager: manager / managerpass
+- Staff: staff / staffpass
+
+## Features
+- Role-based login
+- Menu management
+- Table reservations
+- Order processing
+- Billing
+- Reports: sales, popular items, reservations
